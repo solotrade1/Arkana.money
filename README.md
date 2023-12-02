@@ -1,5 +1,5 @@
 
-# Equine Tracker
+# Arkana Money
 
 ![Equine Tracker Logo](images/horse-logo.png)
 
@@ -21,14 +21,14 @@
 
 ## Introduction
 
-Welcome to Equine Tracker, the ultimate tool for horse enthusiasts. Equine Tracker is designed to help you manage and monitor the health and well-being of your beloved horses. Whether you're a seasoned equestrian or a new horse owner, Equine Tracker has you covered.
+Arkana Money is an innovative EVM-based blockchain designed to host a stablecoin pegged to the USD. With seamless cross-chain capabilities, Arkana Money acts as a universal bridge, connecting diverse blockchain networks and facilitating frictionless, stable-value transactions across the decentralized ecosystem.
 
 ![Horse Image 1](images/horse1.jpg)
 ![Horse Image 2](images/horse2.jpg)
 
 ## Features
 
-Equine Tracker comes with a wide range of features tailored for horse care:
+Arkana money comes with a wide range of features tailored for horse care:
 
 - **Horse Profiles**: Create profiles for each of your horses with essential information.
 - **Health Records**: Maintain health records, including vaccinations, medications, and vet appointments.
